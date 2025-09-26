@@ -60,7 +60,7 @@ features.]({{site.url}}/handouts/newman_features_leipzig.pdf) Talks at Leipzig U
    February 2025. [The locality of subcategorization: a case for
 underspecified category.]({{site.url}}/handouts/nice_locality_newman.pdf) Invited talk at the [Locality Across the Board](https://sites.google.com/view/generativegrammarnice/home/workshops/locality-workshop?authuser=0) workshop, Université Côte d’Azur.
 
-   Winter 2025. (with Gianluca Porta). [Ne-cliticization and the DP/PP distinction: A case for Q.]({{site.url}}/handouts/LSA2025_ne_cl_of_PPs.pdf) Poster at the LSA Annual Meeting.
+   Winter 2025. (with Gianluca Porta). [Ne-cliticization and the DP/PP distinction: A case for Q.]({{site.url}}/handouts/LSA2025_ne_cl_of_PPs.pdf) Poster at the LSA Annual Meeting and GLOW.
 
    Fall 2024. (with Peter Grishin and Giovanni Roversi). [Obviation in Passamaquoddy-Wolastoqey: Dependent case?]({{site.url}}/handouts/Obviation_workshop_handout-2.pdf) Talk at the Understanding Obviation workshop at McGill University.
 
