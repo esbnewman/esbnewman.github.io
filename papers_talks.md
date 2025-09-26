@@ -54,6 +54,9 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 
 ## Talks and Posters
 
+July 2025. [Deriving the order of operations from unordered
+features.]({{site.url}}/handouts/newman_features_leipzig.pdf) Talks at Leipzig University Lecture Series and ZAS.
+
    February 2025. [The locality of subcategorization: a case for
 underspecified category.]({{site.url}}/handouts/nice_locality_newman.pdf) Invited talk at the [Locality Across the Board](https://sites.google.com/view/generativegrammarnice/home/workshops/locality-workshop?authuser=0) workshop, Université Côte d’Azur.
 
