@@ -17,7 +17,7 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 
 ## Papers
 
-(to appear). [On projection and the shadow of wh.]({{site.url}}/papers/newman_projection_2025.pdf). Linguistic Inquiry.
+(to appear). [On projection and the shadow of wh]({{site.url}}/papers/newman_projection_2025.pdf). Linguistic Inquiry.
 
    (2024). The order of operations and A/Ā interactions. Nat Lang Linguist Theory. doi: [https://doi.org/10.1007/s11049-023-09611-3](https://doi.org/10.1007/s11049-023-09611-3)
 
@@ -38,7 +38,7 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 ## Unpublished and In Prep
    
    with Caroline Heycock and Rob Truswell. [Ambiguity of temporal adjuncts and the limits of
-operator movement.]({{site.url}}/papers/Temporals-2.pdf) (re-submitted).
+operator movement]({{site.url}}/papers/Temporals-2.pdf). (re-submitted).
    
    with Kenyon Branan. [Paths: the ghost of features past.]({{site.url}}/papers/paths_resubmission.pdf) (re-submitted).
 
