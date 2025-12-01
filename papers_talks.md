@@ -37,6 +37,9 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
  
 ## Unpublished and In Prep
    
+   with Caroline Heycock and Rob Truswell. [Ambiguity of temporal adjuncts and the limits of
+operator movement.]({{site.url}}/papers/Temporals-2.pdf) (re-submitted).
+   
    with Kenyon Branan. [Paths: the ghost of features past.]({{site.url}}/papers/paths_resubmission.pdf) (re-submitted).
 
    [The verb phrase and its ingredients.]({{site.url}}/papers/arg_struc_new.pdf) (re-submitted).
