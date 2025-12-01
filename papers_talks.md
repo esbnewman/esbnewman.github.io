@@ -17,6 +17,8 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 
 ## Papers
 
+(to appear). [On projection and the shadow of wh.]({{site.url}}/papers/newman_projection_2025.pdf). Linguistic Inquiry.
+
    (2024). The order of operations and A/Ā interactions. Nat Lang Linguist Theory. doi: [https://doi.org/10.1007/s11049-023-09611-3](https://doi.org/10.1007/s11049-023-09611-3)
 
    (2023). Probing for the Closest DP: A Reply to Branan and Erlewine 2022. Linguistic Inquiry. doi: [https://doi.org/10.1162/ling_a_00501](https://doi.org/10.1162/ling_a_00501)
@@ -34,8 +36,6 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 
  
 ## Unpublished and In Prep
-
-   [On projection and the shadow of wh.]({{site.url}}/papers/projection_cyclicity_newman24.pdf) (submitted).
    
    with Kenyon Branan. [Paths: the ghost of features past.]({{site.url}}/papers/paths_resubmission.pdf) (re-submitted).
 
