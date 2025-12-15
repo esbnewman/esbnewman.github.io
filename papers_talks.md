@@ -17,7 +17,9 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 
 ## Papers
 
-(to appear). [On projection and the shadow of wh]({{site.url}}/papers/newman_projection_2025.pdf). Linguistic Inquiry.
+(accepted). with Kenyon Branan. [Paths: the ghost of features past.]({{site.url}}/papers/paths_deanonymized.pdf) (re-submitted). Syntactic Theory and Research (STAR).
+
+(accepted). [On projection and the shadow of wh]({{site.url}}/papers/newman_projection_2025.pdf). Linguistic Inquiry.
 
    (2024). The order of operations and A/Ā interactions. Nat Lang Linguist Theory. doi: [https://doi.org/10.1007/s11049-023-09611-3](https://doi.org/10.1007/s11049-023-09611-3)
 
@@ -36,13 +38,13 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 
  
 ## Unpublished and In Prep
+
+[The representation of selection in syntax]({{site.url}}/papers/subcategorization.pdf). (submitted).
    
    with Caroline Heycock and Rob Truswell. [Ambiguity of temporal adjuncts and the limits of
 operator movement]({{site.url}}/papers/Temporals-2.pdf). (re-submitted).
-   
-   with Kenyon Branan. [Paths: the ghost of features past.]({{site.url}}/papers/paths_resubmission.pdf) (re-submitted).
 
-   [The verb phrase and its ingredients.]({{site.url}}/papers/arg_struc_new.pdf) (re-submitted).
+   (2024) [The verb phrase and its ingredients.]({{site.url}}/papers/arg_struc_new.pdf) (Ms).
 
    (2020). [On the movement/(anti)agreement correlation in Romance and Mayan.](https://ling.auf.net/lingbuzz/005375) Ms.
 
