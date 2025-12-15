@@ -17,7 +17,7 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 
 ## Papers
 
-(accepted). with Kenyon Branan. [Paths: the ghost of features past.]({{site.url}}/papers/paths_deanonymized.pdf). Syntactic Theory and Research (STAR).
+(accepted). with Kenyon Branan. [Paths: the ghost of features past]({{site.url}}/papers/paths_deanonymized.pdf). Syntactic Theory and Research (STAR).
 
 (accepted). [On projection and the shadow of wh]({{site.url}}/papers/newman_projection_2025.pdf). Linguistic Inquiry.
 
