@@ -17,32 +17,32 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 
 ## Papers
 
-(accepted). with Kenyon Branan. [Paths: the ghost of features past]({{site.url}}/papers/paths_deanonymized.pdf). Syntactic Theory and Research (STAR).
+(accepted) with Caroline Heycock and Rob Truswell. [Ambiguity of temporal adjuncts and the limits of
+operator movement]({{site.url}}/papers/Temporals-2.pdf). To appear in Linguistic Inquiry.
 
 (accepted). [On projection and the shadow of wh]({{site.url}}/papers/newman_projection_2025.pdf). Linguistic Inquiry.
 
-   (2024). The order of operations and A/Ā interactions. Nat Lang Linguist Theory. doi: [https://doi.org/10.1007/s11049-023-09611-3](https://doi.org/10.1007/s11049-023-09611-3)
+(2026). with Kenyon Branan. [Paths: the ghost of features past](https://star-linguistics.org/article/id/23413/). Syntactic Theory and Research (STAR).
 
-   (2023). Probing for the Closest DP: A Reply to Branan and Erlewine 2022. Linguistic Inquiry. doi: [https://doi.org/10.1162/ling_a_00501](https://doi.org/10.1162/ling_a_00501)
+(2024). The order of operations and A/Ā interactions. Nat Lang Linguist Theory. doi: [https://doi.org/10.1007/s11049-023-09611-3](https://doi.org/10.1007/s11049-023-09611-3)
 
-   (2023). [Voice and VP-ellipsis revisited.](https://www.nyiconstellations.org) *Constellations: Journal of NYI*.  
+(2023). Probing for the Closest DP: A Reply to Branan and Erlewine 2022. Linguistic Inquiry. doi: [https://doi.org/10.1162/ling_a_00501](https://doi.org/10.1162/ling_a_00501)
 
-   (2021). [On the interpretation of tense in temporal adverbial clauses.](http://doi.org/10.5334/gjgl.1429) *Glossa: A Journal of General Linguistics*, 6(1): 12. 1--30.  
+(2023). [Voice and VP-ellipsis revisited.](https://www.nyiconstellations.org) *Constellations: Journal of NYI*. 
 
-   (2021). [vP infinitives in Wolof: on A'-movement to Spec vP.](https://ling.auf.net/lingbuzz/005352) *ACAL 2019 Proceedings*.
+(2021). [On the interpretation of tense in temporal adverbial clauses.](http://doi.org/10.5334/gjgl.1429) *Glossa: A Journal of General Linguistics*, 6(1): 12. 1--30.  
 
-   with Gowda, Y., L. Rosenstein, and M. Hackl. (2020). [Scalar inferences in the acquisition of *even*.](https://doi.org/10.3389/fcomm.2020.593634) *Frontiers in Communication, section Language Sciences*: 5, p. 117.  
+(2021). [vP infinitives in Wolof: on A'-movement to Spec vP.](https://ling.auf.net/lingbuzz/005352) *ACAL 2019 Proceedings*.
 
-   (2020). [Facilitator effects in middles and more.](http://doi.org/10.5334/gjgl.990) *Glossa: A Journal of General Linguistics*, 5(1), 62.
+with Gowda, Y., L. Rosenstein, and M. Hackl. (2020). [Scalar inferences in the acquisition of *even*.](https://doi.org/10.3389/fcomm.2020.593634) *Frontiers in Communication, section Language Sciences*: 5, p. 117.  
+
+(2020). [Facilitator effects in middles and more.](http://doi.org/10.5334/gjgl.990) *Glossa: A Journal of General Linguistics*, 5(1), 62.
 
 
  
 ## Unpublished and In Prep
 
 [The representation of selection in syntax]({{site.url}}/papers/subcategorization.pdf). (submitted).
-   
-   with Caroline Heycock and Rob Truswell. [Ambiguity of temporal adjuncts and the limits of
-operator movement]({{site.url}}/papers/Temporals-2.pdf). (re-submitted).
 
    (2024) [The verb phrase and its ingredients.]({{site.url}}/papers/arg_struc_new.pdf) (Ms).
 
@@ -58,6 +58,10 @@ operator movement]({{site.url}}/papers/Temporals-2.pdf). (re-submitted).
 
 
 ## Talks and Posters
+
+April 2025. [The representation of selection in syntax]({{site.url}}/handouts/newman_bu.pdf) Talk at Boston University.
+
+March 2025. [On projection and the shadow of wh]({{site.url}}/handouts/newman_princeton_shortform.pdf). Talk at Princeton University.
 
 July 2025. [Deriving the order of operations from unordered
 features.]({{site.url}}/handouts/newman_features_leipzig.pdf) Talks at Leipzig University Lecture Series and ZAS.
