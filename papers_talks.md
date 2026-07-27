@@ -22,7 +22,7 @@ operator movement]({{site.url}}/papers/Temporals-2.pdf). To appear in Linguistic
 
 (accepted). [On projection and the shadow of wh]({{site.url}}/papers/newman_projection_2025.pdf). To appear in Linguistic Inquiry.
 
-(2026). with Kenyon Branan. [Paths: the ghost of features past](https://star-linguistics.org/article/id/23413/). Syntactic Theory and Research (STAR).
+(2026). with Kenyon Branan. [Paths: the ghost of features past](https://star-linguistics.org/article/id/23413/). Syntactic Theory and Research (STAR). doi: [https://doi.org/10.16995/star.23413](https://doi.org/10.16995/star.23413)
 
 (2024). The order of operations and A/Ā interactions. Nat Lang Linguist Theory. doi: [https://doi.org/10.1007/s11049-023-09611-3](https://doi.org/10.1007/s11049-023-09611-3)
 
