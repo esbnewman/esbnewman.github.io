@@ -61,7 +61,7 @@ with Gowda, Y., L. Rosenstein, and M. Hackl. (2020). [Scalar inferences in the a
 
 April 2025. [The representation of selection in syntax]({{site.url}}/handouts/newman_bu.pdf) Talk at Boston University.
 
-March 2025. [On projection and the shadow of wh]({{site.url}}/handouts/newman_princeton_shortform.pdf). Talk at Princeton University.
+March 2025. [On projection and the shadow of wh]({{site.url}}/handouts/newman_princeton_short_form.pdf). Talk at Princeton University.
 
 July 2025. [Deriving the order of operations from unordered
 features.]({{site.url}}/handouts/newman_features_leipzig.pdf) Talks at Leipzig University Lecture Series and ZAS.
