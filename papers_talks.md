@@ -20,7 +20,7 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 (accepted) with Caroline Heycock and Rob Truswell. [Ambiguity of temporal adjuncts and the limits of
 operator movement]({{site.url}}/papers/Temporals-2.pdf). To appear in Linguistic Inquiry.
 
-(accepted). [On projection and the shadow of wh]({{site.url}}/papers/newman_projection_2025.pdf). Linguistic Inquiry.
+(accepted). [On projection and the shadow of wh]({{site.url}}/papers/newman_projection_2025.pdf). To appear in Linguistic Inquiry.
 
 (2026). with Kenyon Branan. [Paths: the ghost of features past](https://star-linguistics.org/article/id/23413/). Syntactic Theory and Research (STAR).
 
