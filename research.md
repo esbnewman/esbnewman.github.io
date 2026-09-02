@@ -23,6 +23,10 @@ Tensed adjunct clauses often display different restrictions on their tense and t
 
 From 2021-2023, I worked on a team project with Kenyon Branan, Thomas McFadden, Sandhya Sundaresan, Rob Truswell, and Hedde Zeijlstra, which studies locality conditions on syntactic dependencies in several contexts. The goal of the project is to find a unified way of discussing several kinds of locality restrictions, such as intervention effects, successive cyclicity, and island effects. In this project, and in the time since, I have been focusing on the distribution of phi-features on nominals, exceptions to the CED (with Kenyon Branan), and the typology of adjunct clauses (with Caroline Heycock and Rob Truswell).
 
+### Passamaquoddy-Wolastoqey
+
+Passamaquoddy-Wolastoqey (Eastern Algonquian) is an endangered indigenous language spoken in northern Maine and southern New Brunswick. A group of us at MIT and Brown have been working with Passamaquoddy elders and alumni of our MITILI program to document understudied aspects of the language and help create teaching materials for language revitalization efforts. My research on the language focuses on three aspects of the grammar: 1) the different morphosyntax of DP and non-DP questions, 2) PP relatives and P-stranding, and 3) verb classes — figuring out how to productively add or suppress arguments in order to identify how Passamaquoddy-Wolastoqey’s rich verbal morphology relates to argument structure. We are also working with undergrads through MIT’s UROP program to build an online language learning tool.
+
 ### Aquisition of *even*
 
 Focus particles raise interesting questions about the acquisition process, given that their contribution is entirely not-at-issue. A child must therefore use indirect reasoning to understand the utility of these words, leading to questions about what constrains learning. What makes *even* additionally interesting, and useful for an acquisition study, is that its inferences interact with negation, despite being not-at-issue. This makes the profile of adult-like competence with *even* more finegrained than is typical for other presupposition triggers.
